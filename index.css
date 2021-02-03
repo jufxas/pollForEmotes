@@ -1,0 +1,32 @@
+* {
+    font-family: 'Yusei Magic',
+        sans-serif;
+}
+
+#emoticon {
+    font-size: 25px;
+}
+
+
+#submit {
+    padding: 25px 50px;
+    font-size: 50px;
+    background: aquamarine;
+    color: white;
+    border: 1px solid white;
+}
+
+input[type=checkbox] {
+    -ms-transform: scale(2);
+    -moz-transform: scale(2);
+    -webkit-transform: scale(2);
+    -o-transform: scale(2);
+    transform: scale(2);
+    padding: 10px;
+}
+
+a,
+#notifyNotEnoughEmotes {
+    color: red;
+    font-size: 30px;
+}
